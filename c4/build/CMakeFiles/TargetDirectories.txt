@@ -1,0 +1,3 @@
+C:/Users/zhangjunyu2022/Desktop/c/c4/build/CMakeFiles/main.dir
+C:/Users/zhangjunyu2022/Desktop/c/c4/build/CMakeFiles/edit_cache.dir
+C:/Users/zhangjunyu2022/Desktop/c/c4/build/CMakeFiles/rebuild_cache.dir
